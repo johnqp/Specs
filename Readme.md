@@ -2,6 +2,6 @@
  * [Amoeba](/Amoeba/Readme.md)
  * [Covenant](/Covenant/Readme.md)
 
-# License
+## License
 
 MIT
